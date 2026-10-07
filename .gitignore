@@ -1,0 +1,25 @@
+# AI and Agent metadata
+.agents/
+.claude/
+AGENTS.md
+CLAUDE.md
+PROJECT_MEMORY.md
+TROUBLESHOOTING.md
+CHANGELOG_AI.md
+TODO_AI.md
+
+# Development tools & secrets
+.vscode/
+tools/
+tests/
+stubs/
+*.ps1
+
+# Build artifacts & packaged folders
+*.zip
+wpcalibrate-shipping-connector/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.log
